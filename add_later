@@ -1,0 +1,501 @@
+
+  <!--start team -->
+  <section id="team">
+    <div class="container" id="judges">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.2s"><span>JUDGES</span></h2>
+        </div>
+
+        <!--<div class="row" id="faq">
+						<div class="col-md-12">
+							<h3>Coming <span>Soon</span></h3>
+						</div>
+					</div>-->
+      <div class="row">
+        <div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.5s">
+          <div class="team-wrapper">
+            <img src="images/amanjot.jpg" class="img-responsive" alt="team img 1">
+            <div class="team-des">
+              <h4>Amanjot Malhotra</h4>
+              <span>Founder, Actiwate and VP, Delhi Angels</span>
+              <a href="https://www.facebook.com/amanmalhotra911"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.linkedin.com/in/amanjot-malhotra/"><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.5s">
+          <div class="team-wrapper">
+            <img src="images/sourav.jpg" class="img-responsive" alt="team img 1">
+            <div class="team-des">
+              <h4>Saurav Tomar</h4>
+              <span>Blockchain Technologist</span>
+              <a href="https://www.facebook.com/one.saurav.tomar"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.linkedin.com/in/sauravtom?ppe=1"><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.5s">
+          <div class="team-wrapper">
+            <img src="images/ravinder.jpg" class="img-responsive" alt="team img 1">
+            <div class="team-des">
+              <h4>Ravinder Pal Singh</h4>
+              <span>Technologist and CIO, Tata Singapore Airlines (Vistara)</span>
+              <a href="https://www.facebook.com/ravinps"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.linkedin.com/in/ravinps/"><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br>
+      <br>
+      <div class="row">
+              <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn"></div>
+
+
+        <div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.5s">
+          <div class="team-wrapper">
+            <img src="images/dolly.jpg" width="100%" class="img-responsive" alt="team img 1">
+            <div class="team-des">
+              <h4>Dolly Bhasin</h4>
+              <span>MD, SPH Consultancy</span>
+              <a href="#"><i class="fa fa-facebook"></i></a>
+              <a href="#"><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+
+				<div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.5s">
+					<div class="team-wrapper">
+						<img src="images/kanishk.jpg" width="100%" class="img-responsive" alt="team img 1">
+						<div class="team-des">
+							<h4>Kanishk Kumar</h4>
+							<span>Sr. Associate Director, Enterprise Sales, Flock</span>
+							<a href="https://www.facebook.com/kanishk.abhishek"><i class="fa fa-facebook"></i></a>
+							<a href="https://www.linkedin.com/in/kanishkk/"><i class="fa fa-linkedin"></i></a>
+						</div>
+					</div>
+        </div>
+        <div class="col-md-1">
+          </div>
+
+      </div>
+    </div>
+      <p>
+        <br>
+        <br>
+      </p>
+
+      <div class="row" id="mentors">
+        <div class="col-md-12">
+          <h2 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.2s"><span>MENTORS</span></h2>
+        </div>
+        <section class="main">
+
+          <ul class="ch-grid">
+              <li>
+                  <div class="ch-item">
+                    <div class="ch-info">
+                      <div class="ch-info-front ch-img-3"></div>
+                      <div class="ch-info-back">
+                        <h3>ANUBHA KUSHWAHA</h3>
+                        <p><a href="http://drbl.in/eAoj">Profile Link</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </li>
+           
+            <li>
+              <div class="ch-item">
+                <div class="ch-info">
+                  <div class="ch-info-front ch-img-2"></div>
+                  <div class="ch-info-back">
+                    <h3>RAVI BATRA</h3>
+                    <p>Engineer, QUALCOMM<a href="https://www.linkedin.com/in/ravi-batra-335563b">Profile Link</a></p>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li>
+                <div class="ch-item">
+                  <div class="ch-info">
+                    <div class="ch-info-front ch-img-1"></div>
+                    <div class="ch-info-back">
+                      <h3>YUGANKA SHARAN</h3>
+                      <p><a href="http://drbl.in/eAoj">Profile Link</a></p>
+                    </div>
+                  </div>
+                </div>
+              </li>
+          </ul>
+
+        </section>
+
+      </div>
+    </div>
+  </section>
+  <!-- end team -->
+  <!--start theme-->
+
+       <section id="portfolio" >
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.2s"><span>ML Unplugged TRACKS</span></h2>
+        </div>
+          <div class="row">
+
+           <div class="col-md-3 wow fadeIn"  data-wow-offset="50" data-wow-delay="0.3s" align="center">
+            <img  src="images/006.png">
+            <div class="caption">
+          <strong style="color: #000">Fraud Risk Management</strong>
+            </div>
+        </div>
+              <div class="col-md-1 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s"></div>
+
+         <div class="col-md-3 wow fadeIn"  data-wow-offset="50" data-wow-delay="0.3s" align="center">
+            <img  src="images/004.png"> 
+                        <div class="caption">
+
+          <strong style="color: #000">Revamping Marketing & Advertising Strategy</strong>
+                        </div>
+        </div>
+              <div class="col-md-1 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s"></div>
+
+         <div class="col-md-3 wow fadeIn"  data-wow-offset="50" data-wow-delay="0.3s" align="center">
+           <img  src="images/005.png">
+                       <div class="caption">
+
+          <strong style="color: #000">Fighting Disabilities</strong>
+                       </div>
+        </div>
+      </div>
+      <P></br></br></br></P>
+      <div class="row">
+         <div class="col-md-3 wow fadeIn"  data-wow-offset="50" data-wow-delay="0.3s" align="center">
+            <img  src="images/003.png">
+            <div class="caption">
+          <strong style="color: #000">Combating Natural Disasters</strong>
+            </div>
+        </div>
+              <div class="col-md-1 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s"></div>
+
+         <div class="col-md-3 wow fadeIn"  data-wow-offset="50" data-wow-delay="0.3s" align="center">
+            <img  src="images/002.png"> 
+                        <div class="caption">
+
+          <strong style="color: #000">Advancement in Cyber Security</strong>
+                        </div>
+        </div>
+              <div class="col-md-1 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s"></div>
+
+         <div class="col-md-3 wow fadeIn"  data-wow-offset="50" data-wow-delay="0.3s" align="center">
+           <img  src="images/001.png">
+                       <div class="caption">
+
+          <strong style="color: #000">Integrating Blockchain wuth IOT</strong>
+                       </div>
+        </div>
+
+      </div>
+
+
+      </div>
+    </div>
+    <br>
+  </section>
+
+  <!--end theme-->
+
+  <!-- sponsors -->
+  <section id="portfolio">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h2 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>OUR SPONSORS</span></h2>
+        </div>
+      </div>
+      <div class="col-md-12">
+        <h3 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>CO-SPONSORS</span></h3>
+      </div>
+
+      <div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" align="left" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://balsamiq.com/" target="blank"><img src="images/img-10.png" class="my-1" class="img-responsive" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+      <div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://about.gitlab.com/" target="blank"><img src="images/img-9.png" class="my-1" class="img-responsive" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+
+      <div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://anemoitechnologies.com/" target="blank"><img src="images/anemoi.png" class="img-responsive" class="my-1" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+      <div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://codingblocks.com/" target="blank"><img src="images/cb.png" class="img-responsive" class="my-1" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+
+
+    </div>
+
+    <div class="row">
+      <p>
+        <br><br>
+      </p>
+      <div class="col-md-12">
+        <h3 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>IN ASSOCIATION WITH</span></h3>
+      </div>
+      <p>
+        <br><br><br>
+      </p>
+      <div class="col-md-1 col-sm-6 col-xs-12 wow fadeIn"></div>
+      <div class="col-md-3 col-sm-6 col-xs-12  wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://temboo.com/" target="blank"><img src="images/temboo.png" class="img-responsive" class="my-1" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+      <div class="col-md-4 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://www.cloudboost.io/" target="blank"><img src="images/cb1.png" class="img-responsive" class="my-1" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://flock.com/in/" target="blank"><img src="images/flock.png" class="img-responsive" class="my-1" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <div class="row">
+
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s"></div>
+
+      <div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://codepen.io/" target="blank"><img src="images/codepen.png" class="img-responsive" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+      <div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://www.twilio.com/" target="blank"><img src="images/img-12.png" class="img-responsive" class="my-1" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://ML Unplugged.hackerearth.com/" target="blank"> <img src="images/img-5.png" class="img-responsive" class="py-auto" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="row">
+      <div class="col-md-1 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s"></div>
+
+      <div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://jetbrains.com/" target="blank"><img src="images/img-6.png" class="img-responsive" class="my-1" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="http://hacksociety.tech/" target="blank"><img src="images/hs.png" class="img-responsive" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://www.uxpin.com/" target="blank"><img src="images/uxpin.jpg" class="img-responsive" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+      <div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" align="left" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://www.stickermule.com/" target="blank"><img src="images/img-8.png" class="img-responsive" class="py-auto" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+
+
+
+    </div>
+    <div class="row">
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s"></div>
+
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="http://get.tech/" target="blank"><img src="images/img-7.png" class="img-responsive" class="product" class="py-auto" alt="portfolio img 1"></a>
+        </div>
+      </div>
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://www.protopie.io/" target="blank"><img src="images/img-11.png" class="img-responsive" class="py-auto"  class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" align="right" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://www.actiwate.in/" target="blank"><img id="abcd" src="images/aw.jpg" class="img-responsive" class="my-1" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" align="center" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="http://hackveda.in/" target="blank"><img src="images/hv.png" class="img-responsive" class="py-auto" class="product" alt="portfolio img 1"></a>
+        </div>
+      </div>
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s"></div>
+
+
+    </div>
+    <div class="row">
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn"></div>
+
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://www.loop11.com/" target="blank"><img src="images/loop11.png" class="img-responsive" class="product" class="py-auto" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://johnsnowlabs.com/" target="blank"><img src="images/John_Snow.png" class="img-responsive" class="product" class="py-auto" alt="portfolio img 1"></a>
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s" align="left">
+          <div class="thumbnail">
+            <a href="https://www.wolfram.com/" target="blank"><img src="images/wolfram.jpg" class="img-responsive" class="product" class="py-auto" alt="portfolio img 1"></a>
+          </div>
+        </div>
+
+      <div class="col-md-2 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+        <div class="thumbnail">
+          <a href="https://frapp.in/" target="blank"><img src="images/frapp.png" class="img-responsive" class="product" class="py-auto" alt="portfolio img 1"></a>
+        </div>
+      </div>
+
+
+    </div>
+    </div>
+
+  </section>
+  <!-- end sponsors -->
+
+  <!-- Media partners -->
+  <section id="portfolio">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>ONLINE MEDIA PARTNERS</span></h3>
+        </div>
+
+        <div class="col-md-2 col-sm-3 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+          <div class="thumbnail">
+            <a href="https://www.brainbuxa.com/" target="blank"> <img src="images/img-13.png" class="img-responsive" class="product" alt="portfolio img 1"></a>
+          </div>
+        </div>
+        <div class="col-md-1 col-sm-6 col-xs-12 wow fadeIn"></div>
+
+        <div class="col-md-3 col-sm-3 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+          <div class="thumbnail">
+            <a href="http://whataftercollege.com/" target="blank"> <img src="images/WAC.png" class="img-responsive" class="product" alt="portfolio img 1"></a>
+          </div>
+        </div>
+        <div class="col-md-1 col-sm-6 col-xs-12 wow fadeIn"></div>
+
+        <div class="col-md-2 col-sm-3 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+          <div class="thumbnail">
+            <a href="http://eatmynews.com/" target="blank"><img src="images/img-14.png" class="img-responsive" class="product" alt="portfolio img 1"></a>
+
+          </div>
+        </div>
+        <div class="col-md-1 col-sm-6 col-xs-12 wow fadeIn"></div>
+
+        <div class="col-md-3 col-sm-3 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+          <div class="thumbnail">
+            <a href="http://dubeat.com/" target="blank"><img src="images/DUB.jpg" class="img-responsive" class="product" alt="portfolio img 1"></a>
+
+          </div>
+        </div>
+
+      </div>
+      <p>
+
+      </p>
+    </div>
+
+  </section>
+  <!-- end Media partners -->
+
+
+
+  <section id="portfolio">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-3 col-sm-3 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+          <div class="thumbnail">
+              <h3 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>ONLINE EDUCATION PARTNER</span></h3>
+            <a href="https://collegedunia.com/" target="blank"> <img src="images/img-15.jpg" class="img-responsive" class="product" alt="portfolio img 1"></a>
+          </div>
+        </div>
+
+          <div class="col-md-3 col-sm-3 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+              <div class="thumbnail">
+                  <h3 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>DIVERSITY PARTNER</span></h3>
+                  <a href="https://www.facebook.com/googlewomentechmakersdelhi/" target="blank"> <img src="images/women.png" class="img-responsive" class="product" alt="portfolio img 1"></a>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-3 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+                <div class="thumbnail">
+                    <h3 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>TECHNOLOGY PARTNER</span></h3>
+                    <a href="https://zebronics.com/" target="blank"> <img src="images/zebronics.png" class="img-responsive" class="product" alt="portfolio img 1"></a>
+                  </div>
+              </div>
+             <div class="col-md-3 col-sm-3 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+            <div class="thumbnail">
+                <h3 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>VC PARTNER</span></h3>
+                <a href="http://advantedge.vc/" target="blank"> <img src="images/advant.png" class="img-responsive" class="product" alt="portfolio img 1"></a>
+              </div>
+			  </div>
+			  <div class="row">
+
+				  <div class="col-md-3 col-sm-3 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+            <div class="thumbnail">
+				                <h3 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>MEDIA PARTNER</span></h3>
+
+                <a href="http://amarujala.com/" target="blank"> <img src="images/amarujala.png" class="img-responsive" class="product" alt="portfolio img 1"></a>
+              </div>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-3 col-sm-3 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
+            <div class="thumbnail">
+				                <h3 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>CLOUD PARTNER</span></h3>
+
+                <a href="https://www.digitalocean.com/" target="blank"> <img src="images/do.png" class="img-responsive" class="product" alt="portfolio img 1"></a>
+              </div>
+			  </div>
+
+			  </div>
+
+      </div>
+    </div>
+
+  </section>
